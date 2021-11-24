@@ -13,4 +13,4 @@ There are also special shapes with double hitpoints, as well as special icons: l
 ## Notes to the implementation
 
 - The collision detector is rather primitive as it only allows vertical or horizontal velocity changes around the corners of the boxes. This could definitely be improved to allow a more natural behaviour around the corners.
-- Similarly, colliding with triangles can also be weird sometimes.
+- For the same reason, colliding with triangles can also be weird sometimes.
