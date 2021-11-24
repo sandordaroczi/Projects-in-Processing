@@ -10,6 +10,10 @@ One bounce to a shape results in a one point decrease in its hitpoint count. The
 
 There are also special shapes with double hitpoints, as well as special icons: lasers and randomizers. A laser, if passed through, takes away one hitpoint per ball from all the shapes in the corresponding row or column. A randomizer, if touched, sends off the balls in a random upward direction each time.
 
+## Controls
+
+Keep the mouse button pressed while aiming, and then release to shoot off the balls.
+
 ## Notes to the implementation
 
 - The collision detector is rather primitive as it only allows vertical or horizontal velocity changes around the corners of the boxes. This could definitely be improved to allow a more natural behaviour around the corners.
