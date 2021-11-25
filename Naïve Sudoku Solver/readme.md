@@ -12,6 +12,6 @@ If no square has a list of allowed numbers with length one, we are either finish
 
 Tune the _frame_rate_ parameter to change the frame rate of the sudoku solver.
 
-The value of the variable _easy_hard_or_invalid_ determines which of the three pre-built sudoku boards we would like to solve. A value of _1_, _2_ and _3_ means that the program will solve an easy, a hard or an invalid sudoku problem, respectively.
+The value of the variable _easy_hard_or_invalid_ determines which of the three pre-built sudoku boards we would like to solve. A value of _1_, _2_ and _3_ means that the program will attempt to solve an easy, a hard or an invalid sudoku problem, respectively.
 
 
