@@ -1,3 +1,5 @@
+## Project description
+
 This is an implementation of the Galton board which can be used to experimentally approximate the values of binomial coefficients.
 
 ## The original Galton board
