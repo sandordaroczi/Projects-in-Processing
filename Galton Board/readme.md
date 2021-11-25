@@ -20,4 +20,6 @@ In case of a symmetric Galton board (with _p_ equal to _0.5_) the probabilities 
 
 ## Design of the program
 
-Instead of actual beads and pegs, my implementation uses green light beams which bounce off of gates with equal probability to the left and to the right. The gates are arranged into the shape of the Pascal triangle, therefore the construction exactly simulates the behaviour of the Galton board. For each box on the bottom of the pyramid the number of beams landing in that box is calculated, and then the scaled value is compared to the corresponding binomial coefficient.
+Instead of actual beads and pegs, my implementation uses green light beams which bounce off of gates with equal probability to the left and to the right. The gates are arranged into the shape of the Pascal triangle, therefore the construction exactly simulates the behaviour of the Galton board.
+
+For each box on the bottom of the pyramid the number of beams landing in that box is calculated, and then the scaled value is compared to the corresponding binomial coefficient.
