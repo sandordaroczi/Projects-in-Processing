@@ -8,4 +8,4 @@ To move the pieces left or right, press the corresponding arrow keys.
 
 Pressing the down key will drop down the pieces to the bottom.
 
-Upon pressed, the up arrow will rotate the current piece with 90°.
+Upon pressed, the up arrow key will rotate the current piece with 90°.
